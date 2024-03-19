@@ -1,8 +1,6 @@
-# quarkus-contact
+# Exemplo de Projeto API CRUD com o Framework Quarkus.
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
-
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+Este projeto serve como uma base de estudo para criar uma aplicação com o framework Quarkus. Ele implementa um CRUD utilizando o ORM Panache para simplificar o acesso aos dados, juntamente com RESTEasy para criar serviços RESTful, REST Client para consumir serviços REST externos e Flyway para gerenciar as migrações de banco de dados de forma automatizada. Ao seguir este exemplo, os desenvolvedores podem aprender a utilizar essas tecnologias em conjunto para construir aplicações Java eficientes e modernas com o Quarkus.
 
 ## Running the application in dev mode
 
