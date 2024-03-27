@@ -11,6 +11,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Pesteasy-Client](https://quarkus.io/guides/resteasy-client)
 - [Panache](https://pt.quarkus.io/guides/hibernate-orm-panache)
 - [Lombok](https://projectlombok.org/)
+- [Flyway](https://flywaydb.org/)
 
 
 ## R Running the application in dev mode
