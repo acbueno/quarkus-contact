@@ -20,4 +20,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ```
 
 > **_NOTE:_**  Quarkus now ships with a Dev UI, which is available in dev mode only at http://localhost:8080/q/dev/.
+>
+### Autor
+---
+
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Anderson Bueno Marinho</b></sub></a>
 
